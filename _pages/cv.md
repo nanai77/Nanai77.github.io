@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 上海财经大学	2019.9-2023.6
+经济统计学（专业排名8%，GPA 3.6/4.0） | 本科
+  *主修课程：统计预测与决策、数据分析与可视化、文本挖掘技术、抽样技术、金融风险管理、财务会计、国民经济核算、非参数统计等
+* 上海财经大学	2023.9-2025.6
+应用统计专硕（机器学习与健康统计方向） | 硕士
+  *主修课程：数据处理与可视化、试验设计与观察性研究、时间序列与空间统计、数据分析与统计建模等
 
 Work experience
 ======

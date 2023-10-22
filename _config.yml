@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "俞靖楠"
-  avatar           : /images/yjn.png
+  avatar           : "yjn.png"
   bio              : 
   location         : "Location"
   employer         :

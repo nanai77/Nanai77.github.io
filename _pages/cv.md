@@ -20,45 +20,20 @@ redirect_from:
   应用统计专硕（机器学习与健康统计方向） | 硕士
   * 主修课程：数据处理与可视化、试验设计与观察性研究、时间序列与空间统计、数据分析与统计建模等
 
-Work experience
+校园经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 社团活动
+  *大一期间在校学联财务部工作，每周对学校各社团部门的提交的经费申请进行核对与报销，定期对各社团开展的活动进行考评工作。
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 在校荣誉
+  * 2020-2021学年人民奖学金二等奖；
+  * 2020-2021学年泰隆银行奖学金；
+  * 2021-2022学年人民奖学金三等奖
   
-Skills
+个人技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 通用技能
+  * CET-6，普通话二级甲等，熟练使用word、excel等office办公软件
+* 专业技能
+  * 掌握R，python等语言，能够运用sas，Eviews等软件进行数据分析，有SQL语言的基础
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
